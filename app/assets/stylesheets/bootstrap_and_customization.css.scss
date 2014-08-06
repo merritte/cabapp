@@ -1,14 +1,13 @@
 
 $body-bg:  #bdc3c7;
 $navbar-margin-bottom: 0;
+
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
 
 #logo {
 	height: 100%
 }
-
-.navbar {
-	margin-bottom: 0; /* removes default excess margin */
-	background: white;
-}
-
